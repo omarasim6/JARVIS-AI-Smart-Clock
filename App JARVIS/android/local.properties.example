@@ -1,0 +1,5 @@
+# Copy this file to android/local.properties and replace the path with your Flutter SDK.
+# Example Windows path:
+# flutter.sdk=C:\\src\\flutter
+# Example macOS/Linux path:
+# flutter.sdk=/Users/you/flutter
